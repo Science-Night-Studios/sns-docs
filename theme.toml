@@ -1,4 +1,4 @@
-name = "Doks"
+name = "sns-docs"
 license = "MIT"
 licenselink = "https://github.com/Science-Night-Studios/sns-docs/blob/master/LICENSE"
 description = "Hugo theme for SNS Docs site"
